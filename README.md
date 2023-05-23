@@ -16,4 +16,6 @@ Problem 2 was far more elusive. I was unable to achieve accuracy on the validati
 
 Lab 5 again deals with the MRI slices data set. I construct a CNN which improves accuracy by about 30% without overfitting. This makes sense because CNNs are generally better at classifying images.
 As in Lab 4, the model is built successively, with each new version a more sophisticated version of its predecessor. 
+
+In Lab 6 I build a RNN to simulate Bach chorales. The model performs decently when evaluated on the testing set, but when you actually listen to the generated chorales, you'll find them to be very poor imitations of Bach. 
 . 
