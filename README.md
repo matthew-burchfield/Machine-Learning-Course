@@ -16,5 +16,4 @@ Problem 2 was far more elusive. I was unable to achieve accuracy on the validati
 
 Lab 5 again deals with the MRI slices data set. I construct a CNN which improves validation accuracy to 84%. This makes sense because two dimensional CNNs are generally better at classifying images.
 
-In Lab 6 I build a RNN to simulate Bach chorales. The model performs decently when evaluated on the testing set, but when you actually listen to the generated chorales, you'll find them to be very poor imitations of Bach. 
-. 
+In Lab 6 I build a RNN to simulate Bach chorales. RNNs perform well on datasets where the data has positional information e.g. the point in time in which a note is played. The model performs decently when evaluated on the testing set, but when you actually listen to the generated chorales, you'll find them to be very poor imitations of Bach. 
